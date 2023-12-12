@@ -166,13 +166,13 @@ https://github.com/#more-details
 After using this generator, your new project (the directory created) will contain an extensive README.md with instructions for development, deployment, etc. You can pre-read the project README.md template here too.
 
 Sibling project generators
-Full Stack FastAPI Couchbase: https://github.com/tiangolo/full-stack-fastapi-couchbase.
+Full Stack FastAPI Couchbase: https://github.com/acanite/full-stack-fastapi-couchbase.
 Release Notes
 Latest Changes
-✨ Upgrade items router with new SQLModel models, simplified logic, and new FastAPI Annotated dependencies. PR #560 by @tiangolo.
-✨ Adopt SQLModel, create models, start using it. PR #559 by @tiangolo.
-⬆️ Upgrade Python version and dependencies. PR #558 by @tiangolo.
-🔧 Add missing dotenv variables. PR #554 by @tiangolo.
+✨ Upgrade items router with new SQLModel models, simplified logic, and new FastAPI Annotated dependencies. PR #560 by @acanite.
+✨ Adopt SQLModel, create models, start using it. PR #559 by @acanite.
+⬆️ Upgrade Python version and dependencies. PR #558 by @acanite.
+🔧 Add missing dotenv variables. PR #554 by @acanite.
 Features
 🐳 Set up Docker config for new-frontend. PR #564 by @alejsdev.
 ✨ Set up new frontend with Vite, TypeScript and React. PR #563 by @alejsdev.
@@ -308,7 +308,7 @@ Latest
 on Apr 19, 2020
 + 5 releases
 Sponsor this project
-@tiangolo
+@acanite
 tiangolo Sebastián Ramírez
 Learn more about GitHub Sponsors
 Packages
